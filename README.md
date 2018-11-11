@@ -1,0 +1,2 @@
+# CPSCI-111-
+A second course in programming, concentrating on the implementation of dynamic structures for data representation. Students will write programs in the C++ programming language which implement the following classic data structures, among others: stacks, lists, queues, hash tables, and trees. Course discussion will emphasize recursion, efficient implementations in terms of memory space and running time, computational complexity of algorithms, and introduction to two important fields of study: searching and sorting. 
